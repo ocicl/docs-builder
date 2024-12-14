@@ -4,6 +4,6 @@ A generic documentation builder for Common Lisp projects.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/40ants/docs-builder.git |
-| commit  | f3970e4                                        |
+| commit  | 9f8f253                                        |
 | systems | docs-builder docs-config                       |
 |---------+------------------------------------------------|
